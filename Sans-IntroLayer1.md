@@ -45,13 +45,13 @@
  
 #### Physical Layer (1)
 
-    - The physical layer is how we physically connect devices 
+    The physical layer is how we physically connect devices 
     
       - volatage on a cable, radio frequency in the air, etc.      
     
       - primarily defines how a single device interacts with a medium
       
-    - Major functions and services
+    Major functions and services
         
         - establishment and termination of a connection to a medium
         
