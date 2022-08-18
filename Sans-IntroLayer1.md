@@ -20,7 +20,7 @@
     2. Data Link
     1. Physical
     
-  - The osi model divides networking protocols into 7 layers, each representing a layer of encapsulation between the highest level. (an application) and the lowest level (physical signals)
+  - The OSI model divides networking protocols into 7 layers, each representing a layer of encapsulation between the highest level. (an application) and the lowest level (physical signals)
     
   - Many devices do not need to communicate at all layers. e.g. a network switch doesn't need to understand HTTP
  
@@ -80,7 +80,7 @@
   - **Modem** 
     - MOdulates and DEModulates signals to be transmitted through different mediums, such as a telephone or cable line
   
-##### Start Topology
+##### Star Topology
 
   - Each node is connected to a central node (such as a hub or switch)
   
