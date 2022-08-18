@@ -71,13 +71,13 @@
       
 ##### Physical Layer Devices
 
-  - **Network Hub**  
+  - *Network Hub*  
     - connects multiple networked devices together, sending data received on one port to all other ports
   
-  - **Network Adapter** 
+  - *Network Adapter* 
     - connects a device such as a computer to a network    
   
-  - **Modem** 
+  - *Modem*
     - MOdulates and DEModulates signals to be transmitted through different mediums, such as a telephone or cable line
   
 ##### Star Topology
