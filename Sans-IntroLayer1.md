@@ -1,5 +1,8 @@
 # Sans - Introduction and Layer 1
 
+[SANS - CyberAces - Networking - Intro and Layer 1](https://www.sans.org/cyberaces/networking)
+
+
 - Humans need certain things to communicate
   - a medium, such as air or paper, a language, and a set of rules or "protocols" for how to behave and interact
   
@@ -20,7 +23,11 @@
     2. Data Link
     1. Physical
     
+
   - The osi model divides networking protocols into 7 layers, each representing a layer of encapsulation between the highest level. (an application) and the lowest level (physical signals)
+=======
+  - The OSI model divides networking protocols into 7 layers, each representing a layer of encapsulation between the highest level. (an application) and the lowest level (physical signals)
+>>>>>>> 923fb4c4953893fa2a341b3b1dd7bd1e60a4fa39
     
   - Many devices do not need to communicate at all layers. e.g. a network switch doesn't need to understand HTTP
  
@@ -45,13 +52,21 @@
  
 #### Physical Layer (1)
 
+<<<<<<< HEAD
     - The physical layer is how we physically connect devices 
+=======
+    The physical layer is how we physically connect devices 
+>>>>>>> 923fb4c4953893fa2a341b3b1dd7bd1e60a4fa39
     
       - volatage on a cable, radio frequency in the air, etc.      
     
       - primarily defines how a single device interacts with a medium
       
+<<<<<<< HEAD
     - Major functions and services
+=======
+    Major functions and services
+>>>>>>> 923fb4c4953893fa2a341b3b1dd7bd1e60a4fa39
         
         - establishment and termination of a connection to a medium
         
@@ -71,6 +86,7 @@
       
 ##### Physical Layer Devices
 
+<<<<<<< HEAD
   - **Network Hub**  
     - connects multiple networked devices together, sending data received on one port to all other ports
   
@@ -81,6 +97,18 @@
     - MOdulates and DEModulates signals to be transmitted through different mediums, such as a telephone or cable line
   
 ##### Start Topology
+=======
+  - *Network Hub*  
+    - connects multiple networked devices together, sending data received on one port to all other ports
+  
+  - *Network Adapter* 
+    - connects a device such as a computer to a network    
+  
+  - *Modem*
+    - MOdulates and DEModulates signals to be transmitted through different mediums, such as a telephone or cable line
+  
+##### Star Topology
+>>>>>>> 923fb4c4953893fa2a341b3b1dd7bd1e60a4fa39
 
   - Each node is connected to a central node (such as a hub or switch)
   
