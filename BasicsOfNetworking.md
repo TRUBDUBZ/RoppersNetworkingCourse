@@ -16,4 +16,8 @@
 
 - So when you see those local IPV4 addresses, what you are seeing is the IPV4 address your network has assigned to you to use locally (and only locally).
 
+<<<<<<< HEAD
 - 
+=======
+## **Not Done**
+>>>>>>> 1cc820560f8561447a45c8b9327634cfe33ef360
