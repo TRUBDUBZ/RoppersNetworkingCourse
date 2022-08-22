@@ -89,6 +89,8 @@
   - **Modem** 
     - MOdulates and DEModulates signals to be transmitted through different mediums, such as a telephone or cable line
 
+**Network Topology**
+
 ##### Star Topology
 
   - Each node is connected to a central node (such as a hub or switch)
