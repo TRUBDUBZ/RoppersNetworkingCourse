@@ -8,9 +8,9 @@
 
 ## Memorization and the lack thereof
 
-- Downsides to memorizing everything: 
+Downsides to memorizing everything: 
     
-    1. It is wowrse to be wrong and fast than right and slow. In computing, knowledge is literally always at your fingertips.
+    1. It is worse to be wrong and fast than right and slow. In computing, knowledge is literally always at your fingertips.
     2. Having the wrong things "memorized" can cause serious problems if you do something that breaks a network(especially if you are remote and not standing in the same room as the computer you are "fixing".) Using **cheatsheets** completely avoids this problems
     3. If youre implementing something you use the specification. Full stop. No negotiating. Why memorize a spec if you can look it up and know what it needs to be
     4. The time required to memorize these things is more than the time it takes to be good at things. Don't memorize, take notes, make cheat sheets, and always be willign to get your hands dirty.
