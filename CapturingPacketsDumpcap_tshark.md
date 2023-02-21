@@ -13,6 +13,6 @@
    
    - -i 1 for choose 1st interface
    
-   - -i 1 -w /users/marcusdiedrich/documents/scan : for choose 1st interface and save to specified filepath
+   - -i 1 -w /path/to/file : for choose 1st interface and save to specified filepath
    
    
